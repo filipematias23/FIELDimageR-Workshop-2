@@ -8,7 +8,7 @@
 
 > Open Example 02 Tutorial: [https://filipematias23.github.io/FIELDimageR-Workshop-2/](https://filipematias23.github.io/FIELDimageR-Workshop-2/)
 
-> Launch the Binder button below to open a virtual RStudio to run this tutorial online.
+> Launch the Binder button below to open a virtual RStudio (running this tutorial online):
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/filipematias23/FIELDimageR-Workshop-2.git/main?urlpath=rstudio)
 
