@@ -8,7 +8,7 @@
 
 > Launch the Binder button below to open a virtual RStudio to run this tutorial online.
 
-coming soon...
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/filipematias23/FIELDimageR-Workshop-2.git/main?urlpath=rstudio)
 
 ## References:
 * [FIELDimageR](https://github.com/OpenDroneMap/FIELDimageR)
